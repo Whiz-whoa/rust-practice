@@ -1,5 +1,6 @@
 I work better with some streak or visual bait. gotta see the github commits in green 
 also learning git
+print("""
 
 ░░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄▄
 ░░░░░█░░░░░░░░░░░░░░░░░░▀▀▄
@@ -36,3 +37,4 @@ also learning git
 ░░░░░░░▄▄▄▄▀▄▄▀█▀▄▄▀▄▄▄▄
 ░░░░░▄▀▄░▄░▄░░░█░░░▄░▄░▄▀▄
 ░░░░░█▄▄▄▄▄▄▄▄▄▀▄▄▄▄▄▄▄▄▄█
+""")
