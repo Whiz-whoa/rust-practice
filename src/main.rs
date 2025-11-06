@@ -1,5 +1,4 @@
-
-fn say_hello(){
+fn say_hello() {
     println!("Hi");
 }
 
